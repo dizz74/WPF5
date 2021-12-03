@@ -98,9 +98,6 @@
     <Resource Include="Img\pencil.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="pencil.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Img\brush.png" />
     <Resource Include="Img\spray.png" />
   </ItemGroup>

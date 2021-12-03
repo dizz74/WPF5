@@ -111,6 +111,8 @@ namespace WPF5_2
                 {
                   MyInkCanvas.Strokes.Save(fs);
                 }
+
+                
             }
         }
 
